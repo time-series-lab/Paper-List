@@ -11,7 +11,7 @@ We also recommend you to move to our other Repositories:
 
 + ## Artificial Intelligence Conferences
 + **AAAI - [2024](./conference-publications/AAAI/2024.md) | 2023 | 2022**
-+ **IJCAI - 2023 | 2022**
++ **IJCAI - [2024](./conference-publications/IJCAI/2024.md) | 2023 | 2022**
 + **ACM MM - 2023 | 2022**
 + **TheWebConf - 2023 | 2022**
 
